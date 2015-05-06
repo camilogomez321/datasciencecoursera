@@ -5,5 +5,5 @@ Repo for the data science course
 
 ### Test 2
 
-*one
-*two
+* one
+* two
